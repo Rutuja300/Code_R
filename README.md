@@ -1,4 +1,4 @@
-# Predictive Analytics for Customer Retention
+# Customer Retention Analysis and Prediction using Python end-to-end Machine Learning
 
 Welcome to the **Predictive Analytics for Customer Retention** project! This repository showcases a machine learning solution designed to address customer churn in the telecom sector by predicting high-risk customers and providing actionable insights to minimize churn rates.
 
